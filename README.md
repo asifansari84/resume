@@ -25,7 +25,7 @@ This project is easy to customize and suitable for students, freshers, and devel
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 ### Step 1: Download / Clone
 
