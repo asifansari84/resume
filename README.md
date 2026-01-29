@@ -1,6 +1,8 @@
 # HTML Resume
 
-![Desktop View] (screenshot_of_html_resume.png)
+## Screenshot
+
+![Resume Preview](./screenshot_of_html_resume.png)
 
 A clean and beginner-friendly resume built using **HTML**.  
 This project is easy to customize and suitable for students, freshers, and developers.
